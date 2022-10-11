@@ -1,5 +1,5 @@
 import qrcode
-a=input()
+a=input("paste the link here:")
 input_URL = a
 
 qr = qrcode.QRCode(
